@@ -16,7 +16,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ### Goals
 
-- 🍯- eat clean. Be mindful of portions. Eat a fruit instead of candy when craving.
+- 🍯- eat cleaner. Be mindful of portions. Eat a fruit instead of candy when craving. Veggie smoothie every day.
 - 🖊- Journal - journal every day for at least 5 minutes
 - 💻- Code - Building / Learning:
   - JS 30 day Challenge
@@ -31,11 +31,20 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ### Wednesday, 3 Feb, 2021
 
+- 🍯-no smoothie today (made this plan after breakfast, when I usually have a smoothie)
+- 🖊- Journal - FAIL
 - 💻- Code - Building / Learning:
-  - JS 30 day Challenge for the day ✅
-- 🏃‍♀️- Exercise - 3 easy miles
+  - Day 3 JS 30 day Challenge ✅
+  - 📚- Reading - Grit by Angela Duckworth; well-timed read!
+- 🏃‍♀️- Exercise - 3 easy miles + Canyon Core
 
 ### Thursday, 4 Feb, 2021
+
+- 🍯-cauliflower-peanut butter-cacao powder-banana-date smoothie
+- 💻- Code - Building / Learning:
+  - Day 4 JS 30 day Challenge ✅
+  - 📚- Reading -
+- 🏃‍♀️- Exercise - 4 easy miles
 
 ### Friday, 5 Feb, 2021
 
