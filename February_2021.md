@@ -16,7 +16,8 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ### Goals
 
-- 🍯- eat cleaner. Be mindful of portions. Eat a fruit instead of candy when craving. Veggie smoothie every day.
+- 🧃- Veggie smoothie every day.
+- 💦- 2500mL of water every day.
 - 🖊- Journal - journal every day for at least 5 minutes
 - 💻- Code - Building / Learning:
   - JS 30 day Challenge
@@ -33,6 +34,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 - 🍯-no smoothie today (made this plan after breakfast, when I usually have a smoothie)
 - 🖊- Journal - FAIL
+- 💦- not really sure, tbh
 - 💻- Code - Building / Learning:
   - Day 3 JS 30 day Challenge ✅
   - 📚- Reading - Grit by Angela Duckworth; well-timed read!
@@ -41,14 +43,35 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Thursday, 4 Feb, 2021
 
 - 🍯-cauliflower-peanut butter-cacao powder-banana-date smoothie
+- 🖊- Journal - ✅
+- 💦- not really sure, tbh
 - 💻- Code - Building / Learning:
   - Day 4 JS 30 day Challenge ✅
-  - 📚- Reading -
+  - Codecademy JS course
+  - 📚- Reading - Grit by Angela Duckworth; well-timed read!
 - 🏃‍♀️- Exercise - 4 easy miles
 
 ### Friday, 5 Feb, 2021
 
+- 🍯-spinach-cucumber-orange juice smoothie
+- 🖊- Journal -
+- 💦- 2500+mL
+- 💻- Code - Building / Learning:
+  - Day 5 JS 30 day Challenge ✅
+  - Codecademy JS course ✅
+  - 📚- Reading - Grit by Angela Duckworth
+- 🏃‍♀️- Exercise - rest day
+
 ### Saturday, 6 Feb, 2021
+
+- 🍯-cauliflower-oat milk-banana-orange juice-vanilla powder smoothie
+- 🖊- Journal -
+- 💦- 2500+mL
+- 💻- Code - Building / Learning:
+  - Day 6 JS 30 day Challenge ✅
+  -
+  - 📚- Reading - Grit by Angela Duckworth
+- 🏃‍♀️- Exercise - 3 EZ miles
 
 ### Sunday, 7 Feb, 2021
 
