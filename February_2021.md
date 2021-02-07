@@ -54,22 +54,21 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Friday, 5 Feb, 2021
 
 - 🍯-spinach-cucumber-orange juice smoothie
-- 🖊- Journal -
+- 🖊- Journal - FAIL
 - 💦- 2500+mL
 - 💻- Code - Building / Learning:
   - Day 5 JS 30 day Challenge ✅
   - Codecademy JS course ✅
   - 📚- Reading - Grit by Angela Duckworth
-- 🏃‍♀️- Exercise - rest day
+- 🏃‍♀️- Exercise - rest day (walk)
 
 ### Saturday, 6 Feb, 2021
 
 - 🍯-cauliflower-oat milk-banana-orange juice-vanilla powder smoothie
-- 🖊- Journal -
-- 💦- 2500+mL
+- 🖊- Journal - ✅
+- 💦- 2500mL
 - 💻- Code - Building / Learning:
   - Day 6 JS 30 day Challenge ✅
-  -
   - 📚- Reading - Grit by Angela Duckworth
 - 🏃‍♀️- Exercise - 3 EZ miles
 
