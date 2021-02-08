@@ -65,16 +65,32 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Saturday, 6 Feb, 2021
 
 - 🍯-cauliflower-oat milk-banana-orange juice-vanilla powder smoothie
-- 🖊- Journal - ✅
-- 💦- 2500mL
+- 🖊- Journal ✅
+- 💦- 2500mL ✅
 - 💻- Code - Building / Learning:
-  - Day 6 JS 30 day Challenge ✅
+  - Day 6 JS 30 day Challenge ✅ -- watched the video
   - 📚- Reading - Grit by Angela Duckworth
 - 🏃‍♀️- Exercise - 3 EZ miles
 
 ### Sunday, 7 Feb, 2021
 
+- 🍯-berries-yoghurt-spinach-almond milk smoothie
+- 🖊- Journal ✅
+- 💦- 2500mL ✅
+- 💻- Code - Building / Learning:
+  - Day 7 JS 30 day Challenge ✅
+  - 📚- Reading - Grit by Angela Duckworth
+- 🏃‍♀️- Exercise - forced rest due to snow
+
 ### Monday, 8 Feb, 2021
+
+- 🍯-cauliflower-cacao powder-cashew butter-date-almond milk smoothie
+- 🖊- Journal
+- 💦- 2500mL
+- 💻- Code - Building / Learning:
+  <!-- - Day 8 JS 30 day Challenge ✅ -->
+  <!-- - 📚- Reading - Grit by Angela Duckworth -->
+- 🏃‍♀️- Exercise - forced rest due to snow
 
 ### Tuesday, 9 Feb, 2021
 
