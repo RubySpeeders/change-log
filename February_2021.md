@@ -37,7 +37,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💦- not really sure, tbh
 - 💻- Code - Building / Learning:
   - Day 3 JS 30 day Challenge ✅
-  - 📚- Reading - Grit by Angela Duckworth; well-timed read!
+- 📚- Reading - Grit by Angela Duckworth; well-timed read!
 - 🏃‍♀️- Exercise - 3 easy miles + Canyon Core
 
 ### Thursday, 4 Feb, 2021
@@ -48,7 +48,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻- Code - Building / Learning:
   - Day 4 JS 30 day Challenge ✅
   - Codecademy JS course
-  - 📚- Reading - Grit by Angela Duckworth; well-timed read!
+- 📚- Reading - Grit by Angela Duckworth; well-timed read!
 - 🏃‍♀️- Exercise - 4 easy miles
 
 ### Friday, 5 Feb, 2021
@@ -59,7 +59,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💻- Code - Building / Learning:
   - Day 5 JS 30 day Challenge ✅
   - Codecademy JS course ✅
-  - 📚- Reading - Grit by Angela Duckworth
+- 📚- Reading - Grit by Angela Duckworth
 - 🏃‍♀️- Exercise - rest day (walk)
 
 ### Saturday, 6 Feb, 2021
@@ -69,7 +69,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💦- 2500mL ✅
 - 💻- Code - Building / Learning:
   - Day 6 JS 30 day Challenge ✅ -- watched the video
-  - 📚- Reading - Grit by Angela Duckworth
+- 📚- Reading - Grit by Angela Duckworth
 - 🏃‍♀️- Exercise - 3 EZ miles
 
 ### Sunday, 7 Feb, 2021
@@ -79,19 +79,27 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💦- 2500mL ✅
 - 💻- Code - Building / Learning:
   - Day 7 JS 30 day Challenge ✅
-  - 📚- Reading - Grit by Angela Duckworth
+- 📚- Reading - Grit by Angela Duckworth
 - 🏃‍♀️- Exercise - forced rest due to snow
 
 ### Monday, 8 Feb, 2021
 
 - 🍯-cauliflower-cacao powder-cashew butter-date-almond milk smoothie
-- 🖊- Journal
-- 💦- 2500mL
+- 🖊- Journal ✅
+- 💦- 2500mL ✅
 - 💻- Code - Building / Learning:
-  <!-- - Day 8 JS 30 day Challenge ✅ -->
-  <!-- - 📚- Reading - Grit by Angela Duckworth -->
+  - Day 8 JS 30 day Challenge ✅
+- 📚- Reading - Grit by Angela Duckworth
 - 🏃‍♀️- Exercise - forced rest due to snow
 
 ### Tuesday, 9 Feb, 2021
+
+- 🍯-cauliflower-cacao powder-cashew butter-date-oat milk smoothie
+<!-- - 🖊- Journal
+- 💦- 2500mL
+- 💻- Code - Building / Learning:
+  - Day 9 JS 30 day Challenge ✅
+- 📚- Reading - Grit by Angela Duckworth -->
+- 🏃‍♀️- Exercise - forced rest due to snow
 
 ### Wednesday, 10 Feb, 2021
