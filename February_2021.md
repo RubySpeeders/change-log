@@ -95,11 +95,33 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Tuesday, 9 Feb, 2021
 
 - 🍯-cauliflower-cacao powder-cashew butter-date-oat milk smoothie
-<!-- - 🖊- Journal
-- 💦- 2500mL
+- 🖊- Journal ✅
+- 💦- 2500mL ✅
 - 💻- Code - Building / Learning:
   - Day 9 JS 30 day Challenge ✅
-- 📚- Reading - Grit by Angela Duckworth -->
+- 📚- Reading - Grit by Angela Duckworth
 - 🏃‍♀️- Exercise - forced rest due to snow
 
 ### Wednesday, 10 Feb, 2021
+
+- 🍯-spinach-yoghurt-apple cider-banana smoothie
+<!-- - 🖊- Journal
+- 💦- 2500mL
+- 💻- Code - Building / Learning:
+  - Day 10 JS 30 day Challenge ✅ -->
+- 📚- Reading - Grit by Angela Duckworth
+<!-- - 🏃‍♀️- Exercise - 3 EZ miles in the snow -->
+
+### Wednesday, 11 Feb, 2021
+
+### Wednesday, 12 Feb, 2021
+
+### Wednesday, 13 Feb, 2021
+
+### Wednesday, 14 Feb, 2021
+
+### Wednesday, 15 Feb, 2021
+
+### Wednesday, 16 Feb, 2021
+
+### Wednesday, 17 Feb, 2021
