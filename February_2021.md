@@ -105,23 +105,47 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Wednesday, 10 Feb, 2021
 
 - 🍯-spinach-yoghurt-apple cider-banana smoothie
-<!-- - 🖊- Journal
-- 💦- 2500mL
+- 🖊- Journal - FAIL
+- 💦- 2500mL ✅
 - 💻- Code - Building / Learning:
-  - Day 10 JS 30 day Challenge ✅ -->
+  - Day 10 JS 30 day Challenge ✅
 - 📚- Reading - Grit by Angela Duckworth
-<!-- - 🏃‍♀️- Exercise - 3 EZ miles in the snow -->
+- 🏃‍♀️- Exercise - rest due to snow
 
-### Wednesday, 11 Feb, 2021
+### Thursday, 11 Feb, 2021
 
-### Wednesday, 12 Feb, 2021
+- 🍯-cauliflower-yoghurt-oat milk-banana-cacao powder smoothie
+- 🖊- Journal - FAIL
+- 💦- 2500mL ✅
+- 💻- Code - Building / Learning:
+  - Day 11 JS 30 day Challenge ✅
+- 📚- Reading - Grit by Angela Duckworth - FAIL
+- 🏃‍♀️- Exercise - rest due to snow
 
-### Wednesday, 13 Feb, 2021
+### Friday, 12 Feb, 2021
 
-### Wednesday, 14 Feb, 2021
+- 🍯-cauliflower-yoghurt-oat milk-banana-cacao powder smoothie
+- 🖊- Journal - FAIL
+- 💦- 2500mL - 2000mL
+- 💻- Code - Building / Learning:
+  - Day 12 JS 30 day Challenge ✅
+- 📚- Reading - Grit by Angela Duckworth - FAIL
+- 🏃‍♀️- Exercise - rest due to snow
 
-### Wednesday, 15 Feb, 2021
+### Saturday, 13 Feb, 2021
 
-### Wednesday, 16 Feb, 2021
+- 🍯-spinach-yoghurt-oat milk-banana-avocado smoothie
+<!-- - 🖊- Journal -
+- 💦- 2500mL - -->
+- 💻- Code - Building / Learning:
+  - Day 13 JS 30 day Challenge ✅
+  <!-- - 📚- Reading - Grit by Angela Duckworth
+- 🏃‍♀️- Exercise - rest due to snow -->
+
+### Sunday, 14 Feb, 2021
+
+### Monday, 15 Feb, 2021
+
+### Tuesday, 16 Feb, 2021
 
 ### Wednesday, 17 Feb, 2021
