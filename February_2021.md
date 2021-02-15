@@ -135,14 +135,22 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Saturday, 13 Feb, 2021
 
 - 🍯-spinach-yoghurt-oat milk-banana-avocado smoothie
-<!-- - 🖊- Journal -
-- 💦- 2500mL - -->
+- 🖊- Journal - FAIL
+- 💦- 2500mL - ✅
 - 💻- Code - Building / Learning:
   - Day 13 JS 30 day Challenge ✅
-  <!-- - 📚- Reading - Grit by Angela Duckworth
-- 🏃‍♀️- Exercise - rest due to snow -->
+- 📚- Reading - Invisible Girl by Lisa Jewell
+- 🏃‍♀️- Exercise - rest due to snow
 
 ### Sunday, 14 Feb, 2021
+
+- 🍯-spinach-yoghurt-oat milk-banana-avocado smoothie
+- 🖊- Journal -
+- 💦- 2500mL - ✅
+- 💻- Code - Building / Learning:
+  - Day 14 JS 30 day Challenge ✅
+- 📚- Reading - Invisible Girl by Lisa Jewell
+- 🏃‍♀️- Exercise - 2 EZ miles with spikes in the snow
 
 ### Monday, 15 Feb, 2021
 
