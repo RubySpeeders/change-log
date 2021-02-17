@@ -145,7 +145,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Sunday, 14 Feb, 2021
 
 - 🍯-spinach-yoghurt-oat milk-banana-avocado smoothie
-- 🖊- Journal -
+- 🖊- Journal - FAIL
 - 💦- 2500mL - ✅
 - 💻- Code - Building / Learning:
   - Day 14 JS 30 day Challenge ✅
@@ -154,6 +154,23 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ### Monday, 15 Feb, 2021
 
+- 🍯-cauliflower--oat milk-banana-date smoothie
+- 🖊- Journal - FAIL
+- 💦- 2500mL - ✅
+- 💻- Code - Building / Learning:
+  - Day 15 JS 30 day Challenge ✅
+- 📚- Reading - Sourdough by Lisa Jewell
+- 🏃‍♀️- Exercise - rest day
+
 ### Tuesday, 16 Feb, 2021
+
+- 🍯-cauliflower--apple juice-date smoothie
+- 🖊- Journal -
+- 💦- 2500mL - ✅
+- 💻- Code - Building / Learning:
+  - Day 16 JS 30 day Challenge ✅
+  - API study
+- 📚- Reading - Sourdough by Lisa Jewell
+- 🏃‍♀️- Exercise - 3 EZ miles in spikes
 
 ### Wednesday, 17 Feb, 2021
