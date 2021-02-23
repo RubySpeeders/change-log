@@ -164,13 +164,78 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 
 ### Tuesday, 16 Feb, 2021
 
-- 🍯-cauliflower--apple juice-date smoothie
-- 🖊- Journal -
+- 🍯-cauliflower--apple juice-date-cucumber smoothie
+- 🖊- Journal - Fail
 - 💦- 2500mL - ✅
 - 💻- Code - Building / Learning:
   - Day 16 JS 30 day Challenge ✅
   - API study
-- 📚- Reading - Sourdough by Lisa Jewell
+- 📚- Reading - Sourdough by Robin Sloan
 - 🏃‍♀️- Exercise - 3 EZ miles in spikes
 
 ### Wednesday, 17 Feb, 2021
+
+- 🍯-spinach--apple juice-cucumber smoothie
+- 🖊- Journal - FAIL
+- 💦- 2500mL - ❓
+- 💻- Code - Building / Learning:
+  - Day 17 JS 30 day Challenge ✅
+  - API study
+- 📚- Reading - Sourdough by Robin Sloan
+- 🏃‍♀️- Exercise - 4 EZ miles + strides
+
+### Thursday, 18 Feb, 2021
+
+- 🍯-spinach--oat milk-banana-date smoothie
+- 🖊- Journal - FAIL
+- 💦- 2500mL - ❓
+- 💻- Code - Building / Learning:
+  - Day 18 JS 30 day Challenge ✅
+  - API study
+- 📚- Reading - by
+- 🏃‍♀️- Exercise - 4 EZ miles
+
+### Friday, 19 Feb, 2021
+
+- 🍯-spinach--oat milk-banana- smoothie
+- 🖊- Journal - FAIL
+- 💦- 2500mL - ✅
+- 💻- Code - Building / Learning:
+  - Day 19 JS 30 day Challenge (watched video) ✅
+- 📚- Reading - FAIL
+- 🏃‍♀️- Exercise - rest day
+
+### Saturday, 20 Feb, 2021
+
+- 🍯-spinach--oat milk-banana-yoghurt smoothie
+- 🖊- Journal - FAIL
+- 💦- 2500mL - ❓
+- 💻- Code - Building / Learning:
+  - Day 19 JS 30 day Challenge (did exercise) ✅
+    -Day 20 JS 30 day Challenge
+- 📚- Reading - FAIL
+- 🏃‍♀️- Exercise - 8 mile tempo -- 4 miles @9:00
+
+### Sunday, 21 Feb, 2021
+
+- 🍯-spinach-oat milk-banana-lettuce smoothie
+- 🖊- Journal - FAIL
+- 💦- 2500mL - ✅
+- 💻- Code - Building / Learning:
+  - Day 21 JS 30 day Challenge ✅
+- 📚- Reading - FAIL
+- 🏃‍♀️- Exercise - 3 recovery miles
+
+### Monday, 22 Feb, 2021
+
+- 🍯-spinach-oat milk-banana-avocado smoothie
+- 🖊- Journal - FAIL
+- 💦- 2500mL - ✅
+- 💻- Code - Building / Learning:
+  - Day 22 JS 30 day Challenge ✅
+- 📚- Reading - FAIL
+- 🏃‍♀️- Exercise - rest day
+
+### Wednesday, 23 Feb, 2021
+
+### Wednesday, 24 Feb, 2021
