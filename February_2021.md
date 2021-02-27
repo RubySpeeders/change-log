@@ -129,7 +129,7 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💦- 2500mL - 2000mL
 - 💻- Code - Building / Learning:
   - Day 12 JS 30 day Challenge ✅
-- 📚- Reading - Grit by Angela Duckworth - FAIL
+- 📚- Reading - FAIL
 - 🏃‍♀️- Exercise - rest due to snow
 
 ### Saturday, 13 Feb, 2021
@@ -236,6 +236,61 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 📚- Reading - FAIL
 - 🏃‍♀️- Exercise - rest day
 
-### Wednesday, 23 Feb, 2021
+### Tuesday, 23 Feb, 2021
+
+- 🍯-cauliflower-oat milk-banana-cacao powder-date smoothie
+- 🖊- Journal - FAIL
+- 💦- 2500mL - ✅
+- 💻- Code - Building / Learning:
+  - Day 23 JS 30 day Challenge ✅
+- 📚- Reading - Grit by Angela Duckworth
+- 🏃‍♀️- Exercise - 4 EZ miles + strides
 
 ### Wednesday, 24 Feb, 2021
+
+- 🍯-cauliflower-oat milk-banana-cacao powder-date-coffee smoothie
+- 🖊- Journal - FAIL
+- 💦- 2500mL - ✅
+- 💻- Code - Building / Learning:
+  - Day 24 JS 30 day Challenge ✅
+- 📚- Reading - does crossword puzzle count?
+- 🏃‍♀️- Exercise - 4x800m track workout
+
+### Thursday, 25 Feb, 2021
+
+- 🍯-spinach-oat milk-sweet potato-pineapple smoothie
+- 🖊- Journal - ✅
+- 💦- 2500mL - ✅
+- 💻- Code - Building / Learning:
+  - Day 25 JS 30 day Challenge ✅
+- 📚- Reading - FAIL
+- 🏃‍♀️- Exercise - 4 EZ miles
+
+### Friday, 26 Feb, 2021
+
+- 🍯-spinach-orange juice-pineapple smoothie
+- 🖊- Journal - ✅
+- 💦- 2500mL - ✅
+- 💻- Code - Building / Learning:
+  - Day 26 JS 30 day Challenge ✅
+- 📚- Reading - Greenwood by Michael Christie
+- 🏃‍♀️- Exercise - rest day, walk to coffee
+
+### Saturday, 27 Feb, 2021
+
+<!-- - 🍯-spinach-orange juice-pineapple smoothie -->
+
+- 🖊- Journal -
+- 💦- 2500mL -
+- 💻- Code - Building / Learning:
+  - Day 27 JS 30 day Challenge ✅
+  <!-- - 📚- Reading - Greenwood by Michael Christie -->
+- 🏃‍♀️- Exercise - 10 EZ miles
+
+### Sunday, 28 Feb, 2021
+
+### Monday, 1 Mar, 2021
+
+### Tuesday, 2 Mar, 2021
+
+### Wednesday, 3 Mar, 2021
