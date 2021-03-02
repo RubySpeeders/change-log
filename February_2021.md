@@ -283,21 +283,15 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 - 💦- 2500mL - ✅
 - 💻- Code - Building / Learning:
   - Day 27 JS 30 day Challenge ✅
-  - 📚- Reading - Greenwood by Michael Christie
+- 📚- Reading - Greenwood by Michael Christie
 - 🏃‍♀️- Exercise - 10 EZ miles
 
 ### Sunday, 28 Feb, 2021
 
 - 🍯-spinach-oat milk-pineapple-mango smoothie
-<!-- - 🖊- Journal -  -->
+- 🖊- Journal - ✅
 - 💦- 2500mL - ❓
 - 💻- Code - Building / Learning:
   - Day 28 JS 30 day Challenge ✅
-  <!-- - 📚- Reading - Greenwood by Michael Christie -->
+- 📚- Reading - Greenwood by Michael Christie
 - 🏃‍♀️- Exercise - 3 recovery miles
-
-### Monday, 1 Mar, 2021
-
-### Tuesday, 2 Mar, 2021
-
-### Wednesday, 3 Mar, 2021
