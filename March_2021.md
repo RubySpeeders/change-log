@@ -36,13 +36,22 @@ A changelog of self growth and improvement. Recording my self growth for a perio
 ### Tuesday, 2 Mar, 2021
 
 - 🧃-spinach-oat milk-pineapple-mango-yoghurt-cucumber smoothie
-  <!-- - 🖊- Journal -  -->
-  <!-- - 💦- 2500mL -  -->
+  - 🖊- Journal - ❌
+  - 💦- 2500mL - ✅
 - 💻- Code - Building / Learning:
   - Day 30 JS 30 day Challenge ✅
-  - Glide Weather App
-  <!-- - 📚- Reading - Greenwood by Michael Christie -->
-- 🏃‍♀️- Exercise - 5 EZ miles
-<!-- - 🧘‍♀️- Stretching -  -->
+  - Glide Weather App ✅
+- 📚- Reading - A Little Life by Hanya Yanagihara
+- 🏃‍♀️- Exercise - 4 EZ miles
+- 🧘‍♀️- Stretching - ❌
 
 ### Wednesday, 3 Mar, 2021
+
+- 🧃-spinach-oat milk-pineapple-mango-yoghurt-dates smoothie
+  - 🖊- Journal - ❌
+  - 💦- 2500mL - ✅
+- 💻- Code - Building / Learning:
+  - Glide Weather App ✅
+- 📚- Reading - ❌
+- 🏃‍♀️- Exercise - 5 EZ miles
+- 🧘‍♀️- Stretching - ❌
